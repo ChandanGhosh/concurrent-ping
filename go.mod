@@ -1,3 +1,3 @@
-module github.com/chandanghosh/chandanghosh/concurrent-ping
+module github.com/chandanghosh/concurrent-ping
 
 go 1.14
