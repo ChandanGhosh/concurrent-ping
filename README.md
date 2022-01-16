@@ -1,5 +1,5 @@
 # concurrent-ping
-Ping multiple hosts concrrently. 
+Ping multiple hosts concurrently. 
 Uses linux cli utility "ping" to stream command out concurrently without blocking.
 
 ## Run
